@@ -1,6 +1,6 @@
 # Vendor Invoice Intelligence System
 
-## AI-Powered Freight Cost Prediction & Invoice Risk Detection
+##  Freight Cost Prediction & Invoice Risk Detection
 
 
 
@@ -8,7 +8,7 @@
 
 The **Vendor Invoice Intelligence System** is an end-to-end Machine Learning application that helps finance and procurement teams automate invoice auditing processes.
 
-The system uses AI models to:
+
 
 - Predict expected freight costs
 - Detect suspicious or risky invoices
@@ -448,14 +448,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# ⭐ Support
 
-If you found this project useful:
-
-- ⭐ Star the repository
-- 🍴 Fork the project
-- 🤝 Connect on LinkedIn
-- 🚀 Share feedback
 
 ---
 
